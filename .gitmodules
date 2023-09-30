@@ -1,3 +1,6 @@
 [submodule "deepfakes-watermarking-technique"]
 	path = deepfakes-watermarking-technique
 	url = https://github.com/shahidmuneer/deepfakes-watermarking-technique
+[submodule "Deepfake_detection_using_deep_learning"]
+	path = Deepfake_detection_using_deep_learning
+	url = https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning
