@@ -1,0 +1,3 @@
+[submodule "deepfakes-watermarking-technique"]
+	path = deepfakes-watermarking-technique
+	url = https://github.com/shahidmuneer/deepfakes-watermarking-technique
